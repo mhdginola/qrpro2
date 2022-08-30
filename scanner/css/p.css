@@ -1,0 +1,21 @@
+#goc{
+    text-align: center;
+    background-color: green;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 3rem;
+    padding: 4px 8px;
+    margin: auto;
+}
+
+#cog{
+    text-align: center;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 3rem;
+    padding: 4px 8px;
+    margin: auto;
+}
